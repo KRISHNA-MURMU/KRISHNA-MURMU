@@ -21,7 +21,7 @@
   </h2>
 }</code>
   </pre>
-  <p class="text-lg mb-6 text-green-300">As an enthusiasing Backend Developer, I have been thriving to find oppurtunities and gain experience in the field of Software Development. And the above block just showcases how i create customized API models using ORM architechture.</p>
+  <p class="text-lg mb-6 text-green-300">As an enthusiastic Backend Developer, I have been thriving to find opprrtunities and gain experience in the field of Software Development. And the above block just showcases how i create customized API models using ORM architecture.</p>
   <p class="text-lg mb-6 text-green-300">Was I able to catch your attention? Let me take you through my Projects then.</p>
 <br>
   <h2 class="text-2xl mt-10 mb-4">PROJECTS AND INTERNSHIP </h2>
